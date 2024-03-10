@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione01_08-03-2024\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{39204FB4-2A24-4F11-9413-1A7DFA2B6B75}|Esercitazione01_08-03-2024\\Esercitazione01_08-03-2024.csproj|c:\\users\\utente\\desktop\\academy_c#\\esercitazione01_08-03-2024\\esercitazione01_08-03-2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39204FB4-2A24-4F11-9413-1A7DFA2B6B75}|Esercitazione01_08-03-2024\\Esercitazione01_08-03-2024.csproj|solutionrelative:esercitazione01_08-03-2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{39204FB4-2A24-4F11-9413-1A7DFA2B6B75}|Esercitazione01_08-03-2024\\Esercitazione01_08-03-2024.csproj|c:\\users\\utente\\desktop\\academy_c#\\esercitazione01_08-03-2024\\esercitazione01_08-03-2024\\classes\\edicola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39204FB4-2A24-4F11-9413-1A7DFA2B6B75}|Esercitazione01_08-03-2024\\Esercitazione01_08-03-2024.csproj|solutionrelative:esercitazione01_08-03-2024\\classes\\edicola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39204FB4-2A24-4F11-9413-1A7DFA2B6B75}|Esercitazione01_08-03-2024\\Esercitazione01_08-03-2024.csproj|c:\\users\\utente\\desktop\\academy_c#\\esercitazione01_08-03-2024\\esercitazione01_08-03-2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39204FB4-2A24-4F11-9413-1A7DFA2B6B75}|Esercitazione01_08-03-2024\\Esercitazione01_08-03-2024.csproj|solutionrelative:esercitazione01_08-03-2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39204FB4-2A24-4F11-9413-1A7DFA2B6B75}|Esercitazione01_08-03-2024\\Esercitazione01_08-03-2024.csproj|c:\\users\\utente\\desktop\\academy_c#\\esercitazione01_08-03-2024\\esercitazione01_08-03-2024\\classes\\giornale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39204FB4-2A24-4F11-9413-1A7DFA2B6B75}|Esercitazione01_08-03-2024\\Esercitazione01_08-03-2024.csproj|solutionrelative:esercitazione01_08-03-2024\\classes\\giornale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{39204FB4-2A24-4F11-9413-1A7DFA2B6B75}|Esercitazione01_08-03-2024\\Esercitazione01_08-03-2024.csproj|c:\\users\\utente\\desktop\\academy_c#\\esercitazione01_08-03-2024\\esercitazione01_08-03-2024\\classes\\pubblicazione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{39204FB4-2A24-4F11-9413-1A7DFA2B6B75}|Esercitazione01_08-03-2024\\Esercitazione01_08-03-2024.csproj|c:\\users\\utente\\desktop\\academy_c#\\esercitazione01_08-03-2024\\esercitazione01_08-03-2024\\classes\\rivista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39204FB4-2A24-4F11-9413-1A7DFA2B6B75}|Esercitazione01_08-03-2024\\Esercitazione01_08-03-2024.csproj|solutionrelative:esercitazione01_08-03-2024\\classes\\rivista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39204FB4-2A24-4F11-9413-1A7DFA2B6B75}|Esercitazione01_08-03-2024\\Esercitazione01_08-03-2024.csproj|c:\\users\\utente\\desktop\\academy_c#\\esercitazione01_08-03-2024\\esercitazione01_08-03-2024\\classes\\giornale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39204FB4-2A24-4F11-9413-1A7DFA2B6B75}|Esercitazione01_08-03-2024\\Esercitazione01_08-03-2024.csproj|solutionrelative:esercitazione01_08-03-2024\\classes\\giornale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 339,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Pubblicazione.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione01_08-03-2024\\Esercitazione01_08-03-2024\\Classes\\Pubblicazione.cs",
               "RelativeDocumentMoniker": "Esercitazione01_08-03-2024\\Classes\\Pubblicazione.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione01_08-03-2024\\Esercitazione01_08-03-2024\\Classes\\Pubblicazione.cs",
               "RelativeToolTip": "Esercitazione01_08-03-2024\\Classes\\Pubblicazione.cs",
-              "ViewState": "AQIAAAoAAABwZWZmZmY9wA4AAAAjAAAA",
+              "ViewState": "AQIAAAoAAABAMjMzMzMvwAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-08T13:30:11.286Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Rivista.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione01_08-03-2024\\Esercitazione01_08-03-2024\\Classes\\Rivista.cs",
               "RelativeDocumentMoniker": "Esercitazione01_08-03-2024\\Classes\\Rivista.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione01_08-03-2024\\Esercitazione01_08-03-2024\\Classes\\Rivista.cs",
               "RelativeToolTip": "Esercitazione01_08-03-2024\\Classes\\Rivista.cs",
-              "ViewState": "AQIAAAYAAAAQLTMzMzMrwCMAAAApAAAA",
+              "ViewState": "AQIAAAYAAACg+/////8pwB0AAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-08T13:24:21.631Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Giornale.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione01_08-03-2024\\Esercitazione01_08-03-2024\\Classes\\Giornale.cs",
               "RelativeDocumentMoniker": "Esercitazione01_08-03-2024\\Classes\\Giornale.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione01_08-03-2024\\Esercitazione01_08-03-2024\\Classes\\Giornale.cs",
               "RelativeToolTip": "Esercitazione01_08-03-2024\\Classes\\Giornale.cs",
-              "ViewState": "AQIAAA8AAACglZmZmZkpwCIAAAAAAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAD4vx0AAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-08T13:24:09.031Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Edicola.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione01_08-03-2024\\Esercitazione01_08-03-2024\\Classes\\Edicola.cs",
               "RelativeDocumentMoniker": "Esercitazione01_08-03-2024\\Classes\\Edicola.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione01_08-03-2024\\Esercitazione01_08-03-2024\\Classes\\Edicola.cs",
               "RelativeToolTip": "Esercitazione01_08-03-2024\\Classes\\Edicola.cs",
-              "ViewState": "AQIAAEIAAAAA7GVmZmbmv0YAAAAMAAAA",
+              "ViewState": "AQIAAE0BAAAAAAAAAAAAwFEBAABzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-08T13:14:44.636Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione01_08-03-2024\\Esercitazione01_08-03-2024\\Program.cs",
               "RelativeDocumentMoniker": "Esercitazione01_08-03-2024\\Program.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione01_08-03-2024\\Esercitazione01_08-03-2024\\Program.cs",
               "RelativeToolTip": "Esercitazione01_08-03-2024\\Program.cs",
-              "ViewState": "AQIAACcAAAAAZmZmZmYTwDMAAAAdAAAA",
+              "ViewState": "AQIAAEMAAADAMjMzMzMiwE8AAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-08T13:10:16.011Z",
               "EditorCaption": ""

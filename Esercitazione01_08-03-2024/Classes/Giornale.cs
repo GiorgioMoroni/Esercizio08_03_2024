@@ -10,14 +10,16 @@ namespace Esercitazione01_08_03_2024.Classes
     {
 
         public static int? ContatoreGiornale { get; set; } = 0;
+        
 
         public Giornale() { }
 
 
-        public Giornale(string? titolo, string? categoria, DateTime dataPubblicazione)
+        public Giornale(string? titolo, string? categoria, int copie, DateTime dataPubblicazione)
         {
             Titolo = titolo;
             Categoria = categoria;
+            Copie = copie;
             DataPubblicazione = dataPubblicazione;
             
         }
@@ -25,7 +27,7 @@ namespace Esercitazione01_08_03_2024.Classes
 
         public override void stampaDettaglio()
         {
-            Console.WriteLine($"[GIORNALE] {Titolo} {Categoria} {DataPubblicazione.ToString("dd/MM/yyyy")}");
+            Console.WriteLine($"[GIORNALE] {Titolo} {Categoria} {Copie} {DataPubblicazione.ToString("dd/MM/yyyy")}");
         }
 
         public static void stampaContatoreGiornali()
@@ -35,7 +37,8 @@ namespace Esercitazione01_08_03_2024.Classes
 
         public override void stampaDataVendita()
         {
-            Console.WriteLine(DataVendita.ToString("dd/MM/yyyy"));
+            Console.WriteLine($"[GIORNALE] {Titolo} {Categoria} {DataPubblicazione.ToString("dd/MM/yyyy")} {DataVendita.ToString("d")}");
+
         }
     }
 }

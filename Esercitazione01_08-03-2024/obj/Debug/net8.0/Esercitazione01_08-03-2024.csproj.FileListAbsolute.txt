@@ -12,3 +12,4 @@ C:\Users\utente\Desktop\Academy_C#\Esercitazione01_08-03-2024\Esercitazione01_08
 C:\Users\utente\Desktop\Academy_C#\Esercitazione01_08-03-2024\Esercitazione01_08-03-2024\obj\Debug\net8.0\Esercitazione01_08-03-2024.pdb
 C:\Users\utente\Desktop\Academy_C#\Esercitazione01_08-03-2024\Esercitazione01_08-03-2024\obj\Debug\net8.0\Esercitazione01_08-03-2024.genruntimeconfig.cache
 C:\Users\utente\Desktop\Academy_C#\Esercitazione01_08-03-2024\Esercitazione01_08-03-2024\obj\Debug\net8.0\ref\Esercitazione01_08-03-2024.dll
+C:\Users\utente\Desktop\Academy_C#\Esercitazione01_08-03-2024\Esercitazione01_08-03-2024\obj\Debug\net8.0\Esercitazione01_08-03-2024.sourcelink.json

@@ -11,11 +11,10 @@ namespace Esercitazione01_08_03_2024.Classes
         public string? Titolo { get; set; }
         public string? Categoria { get; set; }
         public DateTime DataPubblicazione { get; set; }
-
         public DateTime DataVendita { get; set; }
-
         public static int? Contatore { get; set; } = 0;
-        
+        public int Copie { get; set; }
+
 
 
         public abstract void stampaDettaglio();
